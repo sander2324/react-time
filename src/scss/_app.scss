@@ -1,0 +1,11 @@
+body {
+  color: $color;
+  background-color: $background-color;
+  font-family: $font-family;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
